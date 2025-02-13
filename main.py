@@ -1,5 +1,5 @@
 import random
-
+n = 123
 
 class Teacher:
     def __init__(self, th_name, th_age):
